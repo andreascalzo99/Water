@@ -1,2 +1,7 @@
 # Water
-progetto Icon
+Progetto Icon
+
+Devs:
+Chiara Rigante
+Andrea Scalzo
+
