@@ -205,16 +205,3 @@ forest.predict([[ Sulfate,ph]])
 
 #Precisione della predizione
 forest.predict_proba([[800,9]])
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
