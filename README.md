@@ -9,6 +9,7 @@ degli effetti negativi sulla salute e dei costi sanitari superano i costi di att
 Per questo motivo, l’obiettivo del progetto è stato cercare un classificatore, abbastanza
 performante in base al dataset scelto, per fare in modo che in futuro, inserendo dei dati, sia
 possibile ottenere un risultato di potabilità, partendo dalle caratteristiche del corpo idrico scelto. <br>
+In più, con l’apprendimento non-supervisionato, il dataset è stato suddiviso in classi, usate per predire i valori delle feature dell’esempio.
 
 Il file “water_potability.csv” contiene metriche sulla qualità dell'acqua per 3276 diversi corpi
 idrici. <br>
